@@ -1,5 +1,7 @@
+
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=Add.key&animation=twinkling&color=0:CEF279,100:FAED7D&fontColor=FFFFE4&height=220&fontSize=80&fontAlignY=40)
 
+<a href="https://mwthrough.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E4F7BA.svg?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 <!--
 **key0223/key0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
