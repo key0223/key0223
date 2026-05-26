@@ -1,12 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=Wave&text=Add.key&animation=twinkling&color=0:CEF279,100:FAED7D&fontColor=FFFFE4&height=220&fontSize=80&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Soft&text=Add.key&color=9BB97C&fontColor=FFFBB5&height=100&fontSize=80&fontAlign=20&fontAlignY=50)
+---
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=key0223&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&bg_color=9BB97C&title_color=FFFBB5&text_color=FFFBB5&icon_color=FFFBB5)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=key0223&layout=compact&theme=merko&bg_color=9BB97C&title_color=FFFBB5&text_color=FFFBB5&v=1)
 
 #### 📫 Contact 📫
 <a href="https://mwthrough.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E4F7BA.svg?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 <a href="addkey0223@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/addkey0223@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=key0223&layout=compact&theme=merko&v=1)
 <!--
 **key0223/key0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
