@@ -1,16 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&text=Add.key&color=9BB97C&fontColor=FFFBB5&height=100&fontSize=80&fontAlign=20&fontAlignY=50)
 ---
-<p>
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=key0223&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&bg_color=9BB97C&title_color=FFFBB5&text_color=FFFBB5&icon_color=FFFBB5"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=key0223&layout=compact&theme=merko&bg_color=9BB97C&title_color=FFFBB5&text_color=FFFBB5&v=1"
-  />
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=key0223&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&bg_color=9BB97C&title_color=FFFBB5&text_color=FFFBB5&icon_color=FFFBB5&) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=key0223&layout=compact&theme=merko&bg_color=9BB97C&title_color=FFFBB5&text_color=FFFBB5&v=1)
 
 #### 📫 Contact 📫
 <a href="https://mwthrough.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E4F7BA.svg?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
