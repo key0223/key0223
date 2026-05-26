@@ -6,7 +6,7 @@
 <a href="addkey0223@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/addkey0223@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key0223&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=key0223&layout=compact&theme=merko&v=1)
 <!--
 **key0223/key0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
